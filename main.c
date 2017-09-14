@@ -8,6 +8,7 @@
 #define TICK_HZ F_CPU / 2
 #define MS 1000
 #define US 1000000
+#define shitthat 1
 
 void DelayMS(unsigned long m)
 {
