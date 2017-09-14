@@ -6,8 +6,8 @@
 CND_BASEDIR=`pwd`
 # default configuration
 CND_ARTIFACT_DIR_default=dist/default/production
-CND_ARTIFACT_NAME_default=Master.X.production.hex
-CND_ARTIFACT_PATH_default=dist/default/production/Master.X.production.hex
+CND_ARTIFACT_NAME_default=futek-test.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/futek-test.production.hex
 CND_PACKAGE_DIR_default=${CND_DISTDIR}/default/package
-CND_PACKAGE_NAME_default=master.x.tar
-CND_PACKAGE_PATH_default=${CND_DISTDIR}/default/package/master.x.tar
+CND_PACKAGE_NAME_default=futek-test.tar
+CND_PACKAGE_PATH_default=${CND_DISTDIR}/default/package/futek-test.tar

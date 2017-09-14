@@ -58,6 +58,7 @@ int main(void)
     
     while (1)
     {
+        LATAbits.LATA10 ^= 0; 
     }
     return 0;
 }
